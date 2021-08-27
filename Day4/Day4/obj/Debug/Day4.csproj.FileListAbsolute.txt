@@ -1,0 +1,7 @@
+C:\Users\ishitasinghal\source\repos\Day4\Day4\bin\Debug\Day4.exe.config
+C:\Users\ishitasinghal\source\repos\Day4\Day4\bin\Debug\Day4.exe
+C:\Users\ishitasinghal\source\repos\Day4\Day4\bin\Debug\Day4.pdb
+C:\Users\ishitasinghal\source\repos\Day4\Day4\obj\Debug\Day4.csproj.AssemblyReference.cache
+C:\Users\ishitasinghal\source\repos\Day4\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+C:\Users\ishitasinghal\source\repos\Day4\Day4\obj\Debug\Day4.exe
+C:\Users\ishitasinghal\source\repos\Day4\Day4\obj\Debug\Day4.pdb
