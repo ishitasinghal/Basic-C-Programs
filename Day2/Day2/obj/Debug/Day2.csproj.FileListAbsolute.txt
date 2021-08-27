@@ -1,0 +1,14 @@
+C:\Users\ishitasinghal\source\repos\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\ishitasinghal\source\repos\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\ishitasinghal\source\repos\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\ishitasinghal\source\repos\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\Users\ishitasinghal\source\repos\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\ishitasinghal\source\repos\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\ishitasinghal\source\repos\Day2\Day2\obj\Debug\Day2.pdb
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\ishitasinghal\Desktop\Training Material\Assignments\Week1C#\Answers\AssignmentsWeek 1(with bin, obj,sln)\Day2\Day2\obj\Debug\Day2.pdb
